@@ -1,4 +1,4 @@
-package DifferentDesignPatterns.strategy;
+package differentdesignpatterns.strategy;
 
 public interface PaymentStrategy {
     void collectPayment();

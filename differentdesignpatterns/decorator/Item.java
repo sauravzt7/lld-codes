@@ -1,4 +1,4 @@
-package DifferentDesignPatterns.decorator;
+package differentdesignpatterns.decorator;
 
 public interface Item {
 
