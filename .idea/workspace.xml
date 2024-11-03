@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5560d44-c31e-475b-9ef5-95892ded4299" name="Changes" comment="more lld codes">
-      <change afterPath="$PROJECT_DIR$/differentdesignpatterns/abstractfactory/AbstractFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/differentdesignpatterns/factory/ProdcutCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/differentdesignpatterns/state/State.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DifferentDesignPatterns/decorator/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/differentdesignpatterns/decorator/Item.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DifferentDesignPatterns/strategy/PaymentStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/differentdesignpatterns/strategy/PaymentStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ImportantKeyWordsForLLD/synchronizedKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/importantkeywords/synchronizedKeyword.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +82,7 @@
       <option name="presentableId" value="Default" />
       <updated>1730125461329</updated>
       <workItem from="1730125462420" duration="2000" />
-      <workItem from="1730490004585" duration="7701000" />
+      <workItem from="1730490004585" duration="9898000" />
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
